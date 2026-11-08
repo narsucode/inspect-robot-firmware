@@ -1,0 +1,20 @@
+# ????
+build/
+*.bin
+*.elf
+*.map
+
+# ESP-IDF ???? WiFi ???
+sdkconfig
+sdkconfig.old
+sdkconfig.bak*
+dependencies.lock
+managed_components/
+
+# ??
+*.bak*
+*~
+
+# ???
+.vscode/
+.idea/
