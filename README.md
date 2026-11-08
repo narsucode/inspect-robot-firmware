@@ -4,7 +4,9 @@
 > 差速底盘控制、激光雷达、IMU、云台、电池监测
 
 配套上位机：[inspect-robot-ros2](https://github.com/narsucode/inspect-robot-ros2)
-\nDemo video: https://www.bilibili.com/video/BV1LUWJ6yEtp
+
+
+Demo video: https://www.bilibili.com/video/BV1LUWJ6yEtp
 
 ---
 
